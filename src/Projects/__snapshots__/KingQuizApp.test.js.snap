@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="king-henry-quiz"
+>
+  <h1>
+    King Henry VIII Quiz App
+  </h1>
+</div>
+`;

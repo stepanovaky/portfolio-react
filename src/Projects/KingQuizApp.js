@@ -1,5 +1,6 @@
 import React from 'react';
 import QuizApp from '../Images/QuizApp.gif';
+import './KingQuizApp.css';
 
 function KingQuizApp() {
     return (

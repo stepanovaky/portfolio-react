@@ -1,0 +1,13 @@
+.king-henry-quiz img {
+    display: block;
+    height: 200px;
+    width: 100px;
+    border: 2px solid rgb(75, 5, 75);
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.king-henry-quiz p {
+    margin: 1em;
+}

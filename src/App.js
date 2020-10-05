@@ -1,6 +1,6 @@
 import React from 'react';
 import ProjectsIndex from './Projects/ProjectsIndex';
-import { Switch, Route, Link } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import NavBar from './NavBar';
 import Homepage from './Homepage';
 import KingQuizApp from './Projects/KingQuizApp';

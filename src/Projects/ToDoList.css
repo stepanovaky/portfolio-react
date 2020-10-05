@@ -1,0 +1,14 @@
+.to-do-list img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(75, 5, 75);
+    border-radius: 5%;
+}
+
+.to-do-list p {
+    margin: 1em;
+}
+

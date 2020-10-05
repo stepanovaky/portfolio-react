@@ -5,9 +5,10 @@ import ToDoList from './ToDoList';
 function ProjectsIndex() {
     return(
         <div className="projects-index">
-            <ul>
-                <li><KingQuizApp /></li>
+            <h1>Projects</h1>
+            <ul className="projects-list">
                 <li><ToDoList /></li>
+                <li><KingQuizApp /></li>
             </ul>
         </div>
     )

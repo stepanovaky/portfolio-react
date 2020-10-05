@@ -1,10 +1,11 @@
 import React from 'react';
-import KingQuizApp from './Projects/KingQuizApp';
+import ToDoList from './Projects/ToDoList';
 
 function Homepage() {
     return(
         <div className="homepage">
-            <KingQuizApp />
+            <h1>Featured Project</h1>
+            <ToDoList />
         </div>
     )
 }

@@ -1,10 +1,10 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import ProjectsIndex from './ProjectsIndex';
+import Homepage from './Homepage';
 
-it('renders correctly', () => {
+test('it renders correctly', () => {
     const tree = renderer
-        .create(<ProjectsIndex />)
+        .create(<Homepage />)
         .toJSON();
     expect(tree).toMatchSnapshot();
 })

@@ -3,5 +3,31 @@
 exports[`renders correctly 1`] = `
 <div
   className="App"
-/>
+>
+  <div
+    className="projects-index"
+  >
+    <ul>
+      <li>
+        <div
+          className="king-henry-quiz"
+        >
+          <h2>
+            King Henry VIII Quiz App
+          </h2>
+        </div>
+      </li>
+      <li>
+        <div
+          className="to-do-list"
+        >
+          <h2>
+            To Do List
+          </h2>
+        </div>
+      </li>
+    </ul>
+  </div>
+  u
+</div>
 `;

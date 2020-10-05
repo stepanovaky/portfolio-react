@@ -2,10 +2,10 @@
 
 exports[`renders correctly 1`] = `
 <div
-  className="king-henry-quiz"
+  className="to-do-list"
 >
   <h2>
-    King Henry VIII Quiz App
+    To Do List
   </h2>
 </div>
 `;
